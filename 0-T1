@@ -1,0 +1,9 @@
+x = 'World, I am Alvin' # 使用者輸入 'Python'
+
+print("Hello",x)
+
+print(s) # 結果印出 Hello Python
+
+
+import os 
+print(os.getcwd())
